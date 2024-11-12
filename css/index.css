@@ -3898,7 +3898,7 @@ textarea.form-control-lg {
   padding: var(--bs-navbar-toggler-padding-y) var(--bs-navbar-toggler-padding-x);
   font-size: var(--bs-navbar-toggler-font-size);
   line-height: 1;
-  color: var(--bs-navbar-color);
+  color: #dadada;
   background-color: transparent;
   border: var(--bs-border-width) solid var(--bs-navbar-toggler-border-color);
   border-radius: var(--bs-navbar-toggler-border-radius);
@@ -10992,7 +10992,7 @@ body {
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #007fff;
+  color: #dadada;
   border: 1px solid #007fff;
 }
 #mainNav .navbar-toggler:focus {
@@ -11066,7 +11066,7 @@ body {
 #secondaryNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #007fff;
+  color: #dadada;
   border: 1px solid #007fff;
 }
 #secondaryNav .navbar-toggler:focus {
