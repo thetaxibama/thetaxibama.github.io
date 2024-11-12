@@ -3686,7 +3686,7 @@ textarea.form-control-lg {
   --bs-nav-link-padding-x: 1rem;
   --bs-nav-link-padding-y: 0.5rem;
   --bs-nav-link-font-weight: ;
-  --bs-nav-link-color: var(--bs-link-color);
+  --bs-nav-link-color: #dadada;
   --bs-nav-link-hover-color: var(--bs-link-hover-color);
   --bs-nav-link-disabled-color: #6c757d;
   display: flex;
@@ -3701,7 +3701,7 @@ textarea.form-control-lg {
   padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
   font-size: var(--bs-nav-link-font-size);
   font-weight: var(--bs-nav-link-font-weight);
-  color: var(--bs-nav-link-color);
+  color: #dadada;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
@@ -3747,7 +3747,7 @@ textarea.form-control-lg {
 }
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: var(--bs-nav-tabs-link-active-color);
+  color: #dadada;
   background-color: var(--bs-nav-tabs-link-active-bg);
   border-color: var(--bs-nav-tabs-link-active-border-color);
 }
@@ -3774,7 +3774,7 @@ textarea.form-control-lg {
 }
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: var(--bs-nav-pills-link-active-color);
+  color: #dadada;
   background-color: var(--bs-nav-pills-link-active-bg);
 }
 
@@ -3860,7 +3860,7 @@ textarea.form-control-lg {
   --bs-nav-link-padding-x: 0;
   --bs-nav-link-padding-y: 0.5rem;
   --bs-nav-link-font-weight: ;
-  --bs-nav-link-color: var(--bs-navbar-color);
+  --bs-nav-link-color: #dadada;
   --bs-nav-link-hover-color: var(--bs-navbar-hover-color);
   --bs-nav-link-disabled-color: var(--bs-navbar-disabled-color);
   display: flex;
@@ -3871,7 +3871,7 @@ textarea.form-control-lg {
 }
 .navbar-nav .show > .nav-link,
 .navbar-nav .nav-link.active {
-  color: var(--bs-navbar-active-color);
+  color: #dadada;
 }
 .navbar-nav .dropdown-menu {
   position: static;
@@ -11027,7 +11027,7 @@ body {
   #mainNav .nav-link {
     transition: none;
     padding: 2rem 1.5rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: #dadada;
   }
   #mainNav .nav-link:hover {
     color: rgba(255, 255, 255, 0.75);
